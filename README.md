@@ -4,7 +4,7 @@ Arduino Leonard Mouse Move Regularly
 ## これは何か
 
 マウスを定期的に　動かすためのAruduino Leonard 用 スケッチです。
-以下を必要に応じて設定して Arduino に書き込めば　定期的にマウスを動かせます。
+以下を必要に応じて設定して Arduino Leonardに書き込んだもので定期的にマウスを動かせます。
 ```
 const int LED = 13;                         //点滅させるLEDを指定
 const int BUTTON = 7;                       //ON-OFFトグルスイッチを指定
